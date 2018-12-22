@@ -1,0 +1,7 @@
+main: com.theuniverscraft.PointsManager.PluginMain
+name: PointsManager
+version: 0.1
+commands:
+  points:
+    aliases: [pts, point, argent, money, monnaie, balance, fric, frique, aboulemonfric]
+    usage: /<command>
